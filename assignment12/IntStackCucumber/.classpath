@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/apiguardian-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/create-meta-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/cucumber-core-6.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/cucumber-expressions-10.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/cucumber-gherkin-6.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/cucumber-gherkin-messages-6.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/cucumber-java-6.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/cucumber-junit-6.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/cucumber-plugin-6.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/datatable-3.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/docstring-6.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/html-formatter-12.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/messages-14.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/tag-expressions-3.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
